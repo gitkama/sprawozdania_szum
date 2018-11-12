@@ -10,5 +10,5 @@ while(1)
     x = move_info.X;
     y = move_info.Y;
     plot(x,y,'x')
-    axis([0 12 0 12])
+    axis([0 12 0 12])  %zakres ukladu wspolrzednych, zeby plot nie skalowal sie automatycznie
 end
