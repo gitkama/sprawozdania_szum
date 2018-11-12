@@ -2,7 +2,7 @@
 % oraz wizualizacje), dzieki czemu powstanie topic. Nastepnie mozna dzialac
 % w matlab
 
-ros init;
+rosinit;
 
 while(1)
     turtle = rossubscriber('/turtle1/pose');
