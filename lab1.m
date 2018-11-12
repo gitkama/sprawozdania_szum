@@ -1,6 +1,7 @@
 % Na poczatku nalezy odpalic ROS'a, stworzyc symulacje zolwia (sterowanie
 % oraz wizualizacje), dzieki czemu powstanie topic. Nastepnie mozna dzialac
 % w matlab
+% Na poczatku najlepiej wpisac do command window rosinit oraz rostopic list, aby zainicjalizowac oraz rozwinac liste topicow
 
 rosinit;
 
