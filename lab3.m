@@ -1,3 +1,5 @@
+%% Program symulujący jazdę robota po okręgu
+
 A = [];
 R = 12;
 L = 8;
